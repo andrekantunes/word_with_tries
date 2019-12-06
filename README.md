@@ -14,3 +14,5 @@ Opções:
     
   --search TERMO ARQUIVO [ARQUIVO ...]
     Não implementado.
+
+Alunos: André K. Antunes, Cassiano K. Vidal
